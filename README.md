@@ -1,5 +1,4 @@
 # LightingApp
 
 # User Registration Issue
-
-git commit -m "STQA-13 <message>"
+1.User not able to upload his or her profile picture of size greater than 1mb
